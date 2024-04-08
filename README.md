@@ -2,7 +2,7 @@
 
 ## Technical Assignment | Frontend Developer
 
-Welcome to the Food Menu Webpage project! This is an exciting opportunity for you to showcase your front-end development skills. The goal of this assignment is to build an engaging landing page for a Food Menu App using React. Let's dive into the details!
+Welcome to the Food Menu Webpage project! This is an exciting opportunity for me to showcase my front-end development skills. The goal of this assignment is to build an engaging landing page for a Food Menu App using React. Let's dive into the details!
 
 ## Overview
 
